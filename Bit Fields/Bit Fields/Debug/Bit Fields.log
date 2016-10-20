@@ -1,0 +1,35 @@
+﻿Построение начато 19.10.2016 18:22:32.
+     1>Проект "C:\Users\user\documents\visual studio 2010\Projects\Bit Fields\Bit Fields\Bit Fields.vcxproj" в узле 2 (целевые объекты build).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(292,5): error MSB8009: .NET Framework 2.0/3.0/3.5 задают набор инструментов платформы v90. Убедитесь, что на данной машине выполнена установка Visual Studio 2008.
+     1>Построение проекта "C:\Users\user\documents\visual studio 2010\Projects\Bit Fields\Bit Fields\Bit Fields.vcxproj" завершено (целевые объекты build) с ошибкой.
+
+Итоги по проекту:
+        7 мс вызовов   1 C:\Users\user\documents\visual studio 2010\Projects\Bit Fields\Bit Fields\Bit Fields.vcxproj
+                  7 мс вызовов   1 build                                   
+
+Итоги по целям:
+        0 мс вызовов   1 SetBuildDefaultEnvironmentVariables     
+        0 мс вызовов   1 GetFrameworkPaths                       
+        0 мс вызовов   1 PlatformPrepareForBuild                 
+        0 мс вызовов   1 _SplitProjectReferencesByFileExistence  
+        0 мс вызовов   1 _DetermineManagedStateFromCL            
+        0 мс вызовов   1 ResolveProjectReferences                
+        0 мс вызовов   1 PlatformToolsetPrepareForBuild          
+        0 мс вызовов   1 BeforeResolveReferences                 
+        1 мс вызовов   1 PrepareForBuild                         
+        1 мс вызовов   1 AssignProjectConfiguration              
+        1 мс вызовов   1 GetReferenceAssemblyPaths               
+        2 мс вызовов   1 _PrepareForBuild                        
+        2 мс вызовов   1 _CheckForInvalidConfigurationAndPlatform
+
+Итоги по задачам:
+        0 мс вызовов   1 AssignProjectConfiguration              
+        0 мс вызовов   1 MakeDir                                 
+        0 мс вызовов   2 Message                                 
+        0 мс вызовов   4 SetEnv                                  
+        0 мс вызовов   1 GetReferenceAssemblyPaths               
+        1 мс вызовов   1 VCMessage                               
+
+СБОЙ построения.
+
+Затраченное время: 00:00:00.05
